@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:schema="http://schema.org/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:bikeways="https://bikeways.org/">
+
+<rdf:Description rdf:about="https://bikeways.org/bw001">
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Bikeway"/>
+	<schema:identifier>bw001</schema:identifier>
+	<schema:name>Avenida Orillas Del Zamora</schema:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Loja">
+	<rdf:type rdf:resource="http://schema.org/City"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw001">
+	<schema:city rdf:resource="https://bikeways.org/Loja"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw002">
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Bikeway"/>
+	<schema:identifier>bw002</schema:identifier>
+	<schema:name>18 De Noviembre</schema:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Loja">
+	<rdf:type rdf:resource="http://schema.org/City"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw002">
+	<schema:city rdf:resource="https://bikeways.org/Loja"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw003">
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Bikeway"/>
+	<schema:identifier>bw003</schema:identifier>
+	<schema:name>Avenida Emiliano Ortega</schema:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Loja">
+	<rdf:type rdf:resource="http://schema.org/City"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw003">
+	<schema:city rdf:resource="https://bikeways.org/Loja"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw004">
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Bikeway"/>
+	<schema:identifier>bw004</schema:identifier>
+	<schema:name>Santiago De Las Montañas</schema:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Loja">
+	<rdf:type rdf:resource="http://schema.org/City"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw004">
+	<schema:city rdf:resource="https://bikeways.org/Loja"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw005">
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Bikeway"/>
+	<schema:identifier>bw005</schema:identifier>
+	<schema:name>Eduardo Kingman</schema:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Loja">
+	<rdf:type rdf:resource="http://schema.org/City"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw005">
+	<schema:city rdf:resource="https://bikeways.org/Loja"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw006">
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Bikeway"/>
+	<schema:identifier>bw006</schema:identifier>
+	<schema:name>Lourdes</schema:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Loja">
+	<rdf:type rdf:resource="http://schema.org/City"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw006">
+	<schema:city rdf:resource="https://bikeways.org/Loja"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw007">
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Bikeway"/>
+	<schema:identifier>bw007</schema:identifier>
+	<schema:name>Quito</schema:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Loja">
+	<rdf:type rdf:resource="http://schema.org/City"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw007">
+	<schema:city rdf:resource="https://bikeways.org/Loja"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw008">
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Bikeway"/>
+	<schema:identifier>bw008</schema:identifier>
+	<schema:name>José Joaquín De Olmedo</schema:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Loja">
+	<rdf:type rdf:resource="http://schema.org/City"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw008">
+	<schema:city rdf:resource="https://bikeways.org/Loja"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw009">
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Bikeway"/>
+	<schema:identifier>bw009</schema:identifier>
+	<schema:name>Bernardo Valdivieso</schema:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Loja">
+	<rdf:type rdf:resource="http://schema.org/City"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw009">
+	<schema:city rdf:resource="https://bikeways.org/Loja"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw010">
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Bikeway"/>
+	<schema:identifier>bw010</schema:identifier>
+	<schema:name>Daniel Armijos C.</schema:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Loja">
+	<rdf:type rdf:resource="http://schema.org/City"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw010">
+	<schema:city rdf:resource="https://bikeways.org/Loja"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw011">
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Bikeway"/>
+	<schema:identifier>bw011</schema:identifier>
+	<schema:name>24 De Mayo</schema:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Loja">
+	<rdf:type rdf:resource="http://schema.org/City"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw011">
+	<schema:city rdf:resource="https://bikeways.org/Loja"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw012">
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Bikeway"/>
+	<schema:identifier>bw012</schema:identifier>
+	<schema:name>Imbabura</schema:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Loja">
+	<rdf:type rdf:resource="http://schema.org/City"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw012">
+	<schema:city rdf:resource="https://bikeways.org/Loja"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw013">
+	<rdf:type rdf:resource="https://bikeways.org/Bikeway"/>
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<schema:identifier>bw013</schema:identifier>
+	<schema:name>Velasco Ibarra</schema:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Loja">
+	<rdf:type rdf:resource="http://schema.org/City"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw013">
+	<schema:city rdf:resource="https://bikeways.org/Loja"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw014">
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<schema:identifier>bw014</schema:identifier>
+	<rdf:type rdf:resource="https://bikeways.org/Bikeway"/>
+	<schema:name>González Suárez</schema:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Loja">
+	<rdf:type rdf:resource="http://schema.org/City"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw014">
+	<schema:city rdf:resource="https://bikeways.org/Loja"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw015">
+	<rdf:type rdf:resource="https://bikeways.org/Bikeway"/>
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<schema:identifier>bw015</schema:identifier>
+	<schema:name>Avenida Gran Colombia</schema:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Loja">
+	<rdf:type rdf:resource="http://schema.org/City"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw015">
+	<schema:city rdf:resource="https://bikeways.org/Loja"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw016">
+	<schema:identifier>bw016</schema:identifier>
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Bikeway"/>
+	<schema:name>José Félix De Valdivieso</schema:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Loja">
+	<rdf:type rdf:resource="http://schema.org/City"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw016">
+	<schema:city rdf:resource="https://bikeways.org/Loja"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw017">
+	<rdf:type rdf:resource="https://bikeways.org/Bikeway"/>
+	<schema:name>Pedro De Cianca</schema:name>
+	<schema:identifier>bw017</schema:identifier>
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Loja">
+	<rdf:type rdf:resource="http://schema.org/City"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw017">
+	<schema:city rdf:resource="https://bikeways.org/Loja"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw018">
+	<rdf:type rdf:resource="https://bikeways.org/Bikeway"/>
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<schema:identifier>bw018</schema:identifier>
+	<schema:name>Sta. Rosa</schema:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Loja">
+	<rdf:type rdf:resource="http://schema.org/City"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw018">
+	<schema:city rdf:resource="https://bikeways.org/Loja"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw019">
+	<rdf:type rdf:resource="https://bikeways.org/Bikeway"/>
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<schema:identifier>bw019</schema:identifier>
+	<schema:name>Catacocha</schema:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Loja">
+	<rdf:type rdf:resource="http://schema.org/City"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw019">
+	<schema:city rdf:resource="https://bikeways.org/Loja"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw020">
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Bikeway"/>
+	<schema:identifier>bw020</schema:identifier>
+	<schema:name>Juan De Salinas</schema:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Loja">
+	<rdf:type rdf:resource="http://schema.org/City"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bw020">
+	<schema:city rdf:resource="https://bikeways.org/Loja"/>
+</rdf:Description>
+
+</rdf:RDF>

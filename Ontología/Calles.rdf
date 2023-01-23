@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:schema="http://schema.org/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:bikeways="https://bikeways.org/">
+
+<rdf:Description rdf:about="https://bikeways.org/st001">
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Street"/>
+	<schema:identifier>st001</schema:identifier>
+	<schema:name>Avenida Orillas Del Zamora</schema:name>
+	<schema:material>Pavimento</schema:material>
+	<schema:size rdf:datatype="http://www.w3.org/2001/XMLSchema#int">100.0</schema:size>
+	<bikeways:streetStatus>Habilitada</bikeways:streetStatus>
+	<bikeways:streetType>Compartida</bikeways:streetType>
+	<bikeways:streetSignaling>Señalizada</bikeways:streetSignaling>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp001">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st001">
+	<bikeways:startPosition rdf:resource="https://bikeways.org/gsp001"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep001">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st001">
+	<bikeways:endPosition rdf:resource="https://bikeways.org/gep001"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st002">
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Street"/>
+	<schema:identifier>st002</schema:identifier>
+	<schema:name>18 De Noviembre</schema:name>
+	<schema:material>Pavimento</schema:material>
+	<schema:size rdf:datatype="http://www.w3.org/2001/XMLSchema#int">50.0</schema:size>
+	<bikeways:streetStatus>Deshabilitada</bikeways:streetStatus>
+	<bikeways:streetType>Compartida</bikeways:streetType>
+	<bikeways:streetSignaling>No señalizada</bikeways:streetSignaling>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp002">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st002">
+	<bikeways:startPosition rdf:resource="https://bikeways.org/gsp002"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep002">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st002">
+	<bikeways:endPosition rdf:resource="https://bikeways.org/gep002"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st003">
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Street"/>
+	<schema:identifier>st003</schema:identifier>
+	<schema:name>Avenida Emiliano Ortega</schema:name>
+	<schema:material>Concreto</schema:material>
+	<schema:size rdf:datatype="http://www.w3.org/2001/XMLSchema#int">75.0</schema:size>
+	<bikeways:streetStatus>Habilitada</bikeways:streetStatus>
+	<bikeways:streetType>Segregada</bikeways:streetType>
+	<bikeways:streetSignaling>No señalizada</bikeways:streetSignaling>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp003">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st003">
+	<bikeways:startPosition rdf:resource="https://bikeways.org/gsp003"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep003">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st003">
+	<bikeways:endPosition rdf:resource="https://bikeways.org/gep003"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st004">
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<bikeways:streetStatus>Deshabilitada</bikeways:streetStatus>
+	<rdf:type rdf:resource="https://bikeways.org/Street"/>
+	<schema:identifier>st004</schema:identifier>
+	<schema:size rdf:datatype="http://www.w3.org/2001/XMLSchema#int">30.0</schema:size>
+	<schema:name>Santiago De Las Montañas</schema:name>
+	<schema:material>Concreto</schema:material>
+	<bikeways:streetType>Segregada</bikeways:streetType>
+	<bikeways:streetSignaling>No señalizada</bikeways:streetSignaling>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp004">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st004">
+	<bikeways:startPosition rdf:resource="https://bikeways.org/gsp004"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep004">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st004">
+	<bikeways:endPosition rdf:resource="https://bikeways.org/gep004"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st005">
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Street"/>
+	<schema:identifier>st005</schema:identifier>
+	<schema:name>Eduardo Kingman</schema:name>
+	<schema:material>Concreto</schema:material>
+	<schema:size rdf:datatype="http://www.w3.org/2001/XMLSchema#int">100.0</schema:size>
+	<bikeways:streetStatus>Parcialmente habilitada</bikeways:streetStatus>
+	<bikeways:streetType>Compartida</bikeways:streetType>
+	<bikeways:streetSignaling>Señalizada</bikeways:streetSignaling>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp005">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st005">
+	<bikeways:startPosition rdf:resource="https://bikeways.org/gsp005"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep005">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st005">
+	<bikeways:endPosition rdf:resource="https://bikeways.org/gep005"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st006">
+	<schema:name>Lourdes</schema:name>
+	<schema:identifier>st006</schema:identifier>
+	<schema:material>Adoquín</schema:material>
+	<rdf:type rdf:resource="https://bikeways.org/Street"/>
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<schema:size rdf:datatype="http://www.w3.org/2001/XMLSchema#int">70.0</schema:size>
+	<bikeways:streetStatus>Habilitada</bikeways:streetStatus>
+	<bikeways:streetType>Segregada</bikeways:streetType>
+	<bikeways:streetSignaling>No señalizada</bikeways:streetSignaling>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp006">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st006">
+	<bikeways:startPosition rdf:resource="https://bikeways.org/gsp006"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep006">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st006">
+	<bikeways:endPosition rdf:resource="https://bikeways.org/gep006"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st007">
+	<schema:material>Pavimento</schema:material>
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Street"/>
+	<schema:identifier>st007</schema:identifier>
+	<schema:name>Quito</schema:name>
+	<schema:size rdf:datatype="http://www.w3.org/2001/XMLSchema#int">70.0</schema:size>
+	<bikeways:streetStatus>Habilitada</bikeways:streetStatus>
+	<bikeways:streetType>Segregada</bikeways:streetType>
+	<bikeways:streetSignaling>No señalizada</bikeways:streetSignaling>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp007">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st007">
+	<bikeways:startPosition rdf:resource="https://bikeways.org/gsp007"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep007">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st007">
+	<bikeways:endPosition rdf:resource="https://bikeways.org/gep007"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st008">
+	<schema:identifier>st008</schema:identifier>
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Street"/>
+	<schema:name>José Joaquín De Olmedo</schema:name>
+	<schema:material>Pavimento</schema:material>
+	<schema:size rdf:datatype="http://www.w3.org/2001/XMLSchema#int">100.0</schema:size>
+	<bikeways:streetStatus>Habilitada</bikeways:streetStatus>
+	<bikeways:streetType>Compartida</bikeways:streetType>
+	<bikeways:streetSignaling>Señalizada</bikeways:streetSignaling>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp008">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st008">
+	<bikeways:startPosition rdf:resource="https://bikeways.org/gsp008"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep008">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st008">
+	<bikeways:endPosition rdf:resource="https://bikeways.org/gep008"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st009">
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Street"/>
+	<schema:identifier>st009</schema:identifier>
+	<schema:name>Bernardo Valdivieso</schema:name>
+	<schema:material>Pavimento</schema:material>
+	<schema:size rdf:datatype="http://www.w3.org/2001/XMLSchema#int">100.0</schema:size>
+	<bikeways:streetStatus>Habilitada</bikeways:streetStatus>
+	<bikeways:streetType>Compartida</bikeways:streetType>
+	<bikeways:streetSignaling>Señalizada</bikeways:streetSignaling>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp009">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st009">
+	<bikeways:startPosition rdf:resource="https://bikeways.org/gsp009"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep009">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st009">
+	<bikeways:endPosition rdf:resource="https://bikeways.org/gep009"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st010">
+	<rdf:type rdf:resource="https://bikeways.org/Street"/>
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<schema:identifier>st010</schema:identifier>
+	<schema:name>Daniel Armijos C.</schema:name>
+	<schema:material>Concreto</schema:material>
+	<schema:size rdf:datatype="http://www.w3.org/2001/XMLSchema#int">75.0</schema:size>
+	<bikeways:streetStatus>Deshabilitada</bikeways:streetStatus>
+	<bikeways:streetType>Compartida</bikeways:streetType>
+	<bikeways:streetSignaling>No señalizada</bikeways:streetSignaling>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp010">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st010">
+	<bikeways:startPosition rdf:resource="https://bikeways.org/gsp010"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep010">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st010">
+	<bikeways:endPosition rdf:resource="https://bikeways.org/gep010"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st011">
+	<rdf:type rdf:resource="https://bikeways.org/Street"/>
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<schema:identifier>st011</schema:identifier>
+	<schema:name>24 De Mayo</schema:name>
+	<schema:material>Pavimento</schema:material>
+	<schema:size rdf:datatype="http://www.w3.org/2001/XMLSchema#int">88.3</schema:size>
+	<bikeways:streetStatus>Habilitada</bikeways:streetStatus>
+	<bikeways:streetType>Compartida</bikeways:streetType>
+	<bikeways:streetSignaling>Señalizada</bikeways:streetSignaling>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp011">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st011">
+	<bikeways:startPosition rdf:resource="https://bikeways.org/gsp011"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep011">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st011">
+	<bikeways:endPosition rdf:resource="https://bikeways.org/gep011"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st012">
+	<schema:material>Pavimento</schema:material>
+	<schema:name>Imbabura</schema:name>
+	<rdf:type rdf:resource="https://bikeways.org/Street"/>
+	<schema:identifier>st012</schema:identifier>
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<schema:size rdf:datatype="http://www.w3.org/2001/XMLSchema#int">90.4</schema:size>
+	<bikeways:streetStatus>Deshabilitada</bikeways:streetStatus>
+	<bikeways:streetType>Compartida</bikeways:streetType>
+	<bikeways:streetSignaling>No señalizada</bikeways:streetSignaling>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp012">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st012">
+	<bikeways:startPosition rdf:resource="https://bikeways.org/gsp012"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep012">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st012">
+	<bikeways:endPosition rdf:resource="https://bikeways.org/gep012"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st013">
+	<schema:identifier>st013</schema:identifier>
+	<rdf:type rdf:resource="https://bikeways.org/Street"/>
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<schema:name>Velasco Ibarra</schema:name>
+	<schema:material>Concreto</schema:material>
+	<schema:size rdf:datatype="http://www.w3.org/2001/XMLSchema#int">92.5</schema:size>
+	<bikeways:streetStatus>Habilitada</bikeways:streetStatus>
+	<bikeways:streetType>Segregada</bikeways:streetType>
+	<bikeways:streetSignaling>No señalizada</bikeways:streetSignaling>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp013">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st013">
+	<bikeways:startPosition rdf:resource="https://bikeways.org/gsp013"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep013">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st013">
+	<bikeways:endPosition rdf:resource="https://bikeways.org/gep013"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st014">
+	<schema:name>González Suárez</schema:name>
+	<schema:identifier>st014</schema:identifier>
+	<rdf:type rdf:resource="https://bikeways.org/Street"/>
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<schema:material>Concreto</schema:material>
+	<schema:size rdf:datatype="http://www.w3.org/2001/XMLSchema#int">94.5</schema:size>
+	<bikeways:streetStatus>Deshabilitada</bikeways:streetStatus>
+	<bikeways:streetType>Segregada</bikeways:streetType>
+	<bikeways:streetSignaling>No señalizada</bikeways:streetSignaling>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp014">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st014">
+	<bikeways:startPosition rdf:resource="https://bikeways.org/gsp014"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep014">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st014">
+	<bikeways:endPosition rdf:resource="https://bikeways.org/gep014"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st015">
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Street"/>
+	<schema:identifier>st015</schema:identifier>
+	<schema:name>Avenida Gran Colombia</schema:name>
+	<schema:material>Concreto</schema:material>
+	<schema:size rdf:datatype="http://www.w3.org/2001/XMLSchema#int">96.6</schema:size>
+	<bikeways:streetStatus>Parcialmente habilitada</bikeways:streetStatus>
+	<bikeways:streetType>Compartida</bikeways:streetType>
+	<bikeways:streetSignaling>Señalizada</bikeways:streetSignaling>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp015">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st015">
+	<bikeways:startPosition rdf:resource="https://bikeways.org/gsp015"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep015">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st015">
+	<bikeways:endPosition rdf:resource="https://bikeways.org/gep015"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st016">
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Street"/>
+	<schema:identifier>st016</schema:identifier>
+	<schema:name>José Félix De Valdivieso</schema:name>
+	<schema:material>Adoquín</schema:material>
+	<schema:size rdf:datatype="http://www.w3.org/2001/XMLSchema#int">98.6</schema:size>
+	<bikeways:streetStatus>Habilitada</bikeways:streetStatus>
+	<bikeways:streetType>Segregada</bikeways:streetType>
+	<bikeways:streetSignaling>No señalizada</bikeways:streetSignaling>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp016">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st016">
+	<bikeways:startPosition rdf:resource="https://bikeways.org/gsp016"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep016">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st016">
+	<bikeways:endPosition rdf:resource="https://bikeways.org/gep016"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st017">
+	<schema:identifier>st017</schema:identifier>
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Street"/>
+	<schema:name>Pedro De Cianca</schema:name>
+	<schema:material>Concreto</schema:material>
+	<schema:size rdf:datatype="http://www.w3.org/2001/XMLSchema#int">100.7</schema:size>
+	<bikeways:streetStatus>Habilitada</bikeways:streetStatus>
+	<bikeways:streetType>Segregada</bikeways:streetType>
+	<bikeways:streetSignaling>No señalizada</bikeways:streetSignaling>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp017">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st017">
+	<bikeways:startPosition rdf:resource="https://bikeways.org/gsp017"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep017">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st017">
+	<bikeways:endPosition rdf:resource="https://bikeways.org/gep017"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st018">
+	<schema:identifier>st018</schema:identifier>
+	<rdf:type rdf:resource="https://bikeways.org/Street"/>
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<schema:name>Sta. Rosa</schema:name>
+	<schema:material>Pavimento</schema:material>
+	<schema:size rdf:datatype="http://www.w3.org/2001/XMLSchema#int">102.8</schema:size>
+	<bikeways:streetStatus>Habilitada</bikeways:streetStatus>
+	<bikeways:streetType>Compartida</bikeways:streetType>
+	<bikeways:streetSignaling>Señalizada</bikeways:streetSignaling>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp018">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st018">
+	<bikeways:startPosition rdf:resource="https://bikeways.org/gsp018"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep018">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st018">
+	<bikeways:endPosition rdf:resource="https://bikeways.org/gep018"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st019">
+	<schema:size rdf:datatype="http://www.w3.org/2001/XMLSchema#int">104.8</schema:size>
+	<bikeways:streetStatus>Habilitada</bikeways:streetStatus>
+	<bikeways:streetType>Compartida</bikeways:streetType>
+	<bikeways:streetSignaling>Señalizada</bikeways:streetSignaling>
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Street"/>
+	<schema:identifier>st019</schema:identifier>
+	<schema:name>Catacocha</schema:name>
+	<schema:material>Pavimento</schema:material>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp019">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st019">
+	<bikeways:startPosition rdf:resource="https://bikeways.org/gsp019"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep019">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st019">
+	<bikeways:endPosition rdf:resource="https://bikeways.org/gep019"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st020">
+	<rdf:type rdf:resource="http://schema.org/Product"/>
+	<rdf:type rdf:resource="https://bikeways.org/Street"/>
+	<schema:identifier>st020</schema:identifier>
+	<schema:name>Juan De Salinas</schema:name>
+	<schema:material>Concreto</schema:material>
+	<schema:size rdf:datatype="http://www.w3.org/2001/XMLSchema#int">106.9</schema:size>
+	<bikeways:streetStatus>Deshabilitada</bikeways:streetStatus>
+	<bikeways:streetType>Compartida</bikeways:streetType>
+	<bikeways:streetSignaling>No señalizada</bikeways:streetSignaling>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp020">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st020">
+	<bikeways:startPosition rdf:resource="https://bikeways.org/gsp020"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep020">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st020">
+	<bikeways:endPosition rdf:resource="https://bikeways.org/gep020"/>
+</rdf:Description>
+
+</rdf:RDF>

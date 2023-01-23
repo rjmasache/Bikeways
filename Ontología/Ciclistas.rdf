@@ -1,0 +1,1409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:schema="http://schema.org/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:bikeways="https://bikeways.org/">
+
+<rdf:Description rdf:about="https://bikeways.org/MdmUZs4WoYPxuhiWaEgzNLerWua2">
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>MdmUZs4WoYPxuhiWaEgzNLerWua2</schema:identifier>
+	<schema:name>Ab Aba</schema:name>
+	<schema:gender>Femenino</schema:gender>
+	<schema:email>ab@gmail.com</schema:email>
+	<schema:weight>52.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">172</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">22</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/V1CjtnVLPqT01MRd9Lw5cEYGszx2">
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>V1CjtnVLPqT01MRd9Lw5cEYGszx2</schema:identifier>
+	<schema:name>Joan M. Briceño Q.</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>timo200004@gmail.com</schema:email>
+	<schema:image>https://lh3.googleusercontent.com/a/AEdFTp6FHVfVNLKu3CgSC5kPdcbf-iDJN8u3Y4BRgv88Aw=s96-c</schema:image>
+	<schema:weight>12.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">127</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">22</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/3qdrOZSxdgOPYidhuppIHADwGxH3">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>3qdrOZSxdgOPYidhuppIHADwGxH3</schema:identifier>
+	<schema:name>Leonel Loyola </schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>carlosloyola07@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu2fGH6U3HpYjFLoSVXOgmy73TptE3-ch3lkrK-h=s96-c</schema:image>
+	<schema:weight>78.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">164</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/OEEd1qjDyLdSdTP24TEsJdvRJgd2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>OEEd1qjDyLdSdTP24TEsJdvRJgd2</schema:identifier>
+	<schema:name>Johan Daniel Carrión Iñiguez </schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>jdcarrion8@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>80.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">180</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/PDO8HCqNabdpGozlDJnQSxhxyEl1">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>PDO8HCqNabdpGozlDJnQSxhxyEl1</schema:identifier>
+	<schema:name>Johan Daniel Carrión Iñiguez </schema:name>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:email>johan211987@gmail.com</schema:email>
+	<schema:weight>0.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</schema:height>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/ieVtLugh4HafI9SvBr80wZPb9Lr1">
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>juanpablosaca2@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>ieVtLugh4HafI9SvBr80wZPb9Lr1</schema:identifier>
+	<schema:name>Cristhian Alexander Saca Vega</schema:name>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu0wFT9G2rgm3enNDlO9xGgOrH3PmbXofm19Rf8m=s96-c</schema:image>
+	<schema:weight>70.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">167</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">22</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/9czWW6hC5lTQwnloK43POYH4l9B3">
+	<schema:name>Leidy Marianela González Quizhpe</schema:name>
+	<schema:gender>Femenino</schema:gender>
+	<schema:email>lmgonzalez11@utpl.edu.ec</schema:email>
+	<schema:telephone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">969578819</schema:telephone>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>9czWW6hC5lTQwnloK43POYH4l9B3</schema:identifier>
+	<schema:weight>60.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">149</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">25</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/X7AtKGLmSlV8mltB4PEi2yjqNfd2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>X7AtKGLmSlV8mltB4PEi2yjqNfd2</schema:identifier>
+	<schema:name>Dalton Alessandro</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>alessandroarteaga10@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu3laBBkqvGsDHueQvxARBrHG0eqATsXHWCh3ZQb=s96-c</schema:image>
+	<schema:weight>60.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">164</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/QZ309hVRNrRhdqpW7URcUQIDuy82">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>QZ309hVRNrRhdqpW7URcUQIDuy82</schema:identifier>
+	<schema:name>Carlos Francisco Celi Fernández</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>cfceli3@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>60.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">167</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/BDfJqakjuJWCZDC6lDjMXAaCHVw1">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>BDfJqakjuJWCZDC6lDjMXAaCHVw1</schema:identifier>
+	<schema:name>Alex Nagua</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>alexnagua8@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu3GPCdymIq7UCy2qXwWlBQ7aOq7PQ8-TkdaEV0mng=s96-c</schema:image>
+	<schema:weight>74.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">175</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/vM6Mv8PJaDcMRwBsUfJtalF7fqr1">
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>vM6Mv8PJaDcMRwBsUfJtalF7fqr1</schema:identifier>
+	<schema:name>Juan Antonio Loján</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>juanantonio5591@gmail.com</schema:email>
+	<schema:telephone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">967538972</schema:telephone>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu2PaPxwYjzEkLe6OxJIwQD-g0MPEWqhdwbYSYPrqQ=s96-c</schema:image>
+	<schema:weight>53.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">173</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/OYx3rZfTdmaiJ8Gr59h6XpDD03H3">
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>OYx3rZfTdmaiJ8Gr59h6XpDD03H3</schema:identifier>
+	<schema:name>Pablo Josue</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>pablojllr@gmail.com</schema:email>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu00UFTTZ8R8V-HPyrWCmT0S1tOAFBXAhTJayIN0=s96-c</schema:image>
+	<schema:weight>80.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">179</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/wgJ8BgzLgmUYqVaG97MGl9Dp7sp2">
+	<schema:email>jdmacas5@utpl.edu.ec</schema:email>
+	<schema:telephone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">939858887</schema:telephone>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>wgJ8BgzLgmUYqVaG97MGl9Dp7sp2</schema:identifier>
+	<schema:name>Jhossuett Macas</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:weight>65.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">165</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/bmvOrXB5ZZaL4SMOxwe17fwCOfW2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>bmvOrXB5ZZaL4SMOxwe17fwCOfW2</schema:identifier>
+	<schema:name>Samantha Mallerly Villalta Poma</schema:name>
+	<schema:gender>Femenino</schema:gender>
+	<schema:email>damss2002@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu0agAD-XFZxltM5Q00hr3mgrBo4ROn--8oyUaRt=s96-c</schema:image>
+	<schema:weight>61.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">159</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/2UTbjqg47FMO0GQnMs57b0WsdMJ2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>2UTbjqg47FMO0GQnMs57b0WsdMJ2</schema:identifier>
+	<schema:name>Saúl Criollo</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>saulctorres47@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu3UCicSzYNJOyjz6u_95s2iaORTT7Vd2QIDfrK9=s96-c</schema:image>
+	<schema:weight>77.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">170</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">22</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/9EIraMRlWsfjuveUEY7A4tucuuA2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>9EIraMRlWsfjuveUEY7A4tucuuA2</schema:identifier>
+	<schema:name>Diego Vivanco</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>diegovivanco50@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu015hNsZsVeXPCSixIerZlVOQ66jVFCKnI-oCJwRg=s96-c</schema:image>
+	<schema:weight>70.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">176</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/EMcipg1dUjQhRF6Qv0hJopXbtj43">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>EMcipg1dUjQhRF6Qv0hJopXbtj43</schema:identifier>
+	<schema:name>Stiven Chalaco</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>schalaco8@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu1ZuWhJSQijpYXOrFPJ2yRBNdrQATbyQmqMtveu=s96-c</schema:image>
+	<schema:weight>69.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">170</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/WZ7GBIqxK8SQGT9mQzAl0EXv4Vc2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>WZ7GBIqxK8SQGT9mQzAl0EXv4Vc2</schema:identifier>
+	<schema:name>Aileen Tapia</schema:name>
+	<schema:gender>Femenino</schema:gender>
+	<schema:email>aileen.carolina11@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>55.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">158</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/RTBBRflipPXJLWLSjQMKRg4JpT72">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>RTBBRflipPXJLWLSjQMKRg4JpT72</schema:identifier>
+	<schema:name>Edgar Vivanco</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>efvivanco@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>54.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">166</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">19</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/EZcENlRld1P3xuPd6sJGeAWWWEF2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>EZcENlRld1P3xuPd6sJGeAWWWEF2</schema:identifier>
+	<schema:name>Jhona Verdesoto</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>verdesotojhona@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu0GBmH_UqeYpDhoRXy8QJAiMpmdqeQaHMn_Gd7IUw=s96-c</schema:image>
+	<schema:weight>89.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">181</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/y7k6mWtqHAXm3GRDvL1ekwnafoG2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>y7k6mWtqHAXm3GRDvL1ekwnafoG2</schema:identifier>
+	<schema:name>Jorge Montaño </schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>jlmontano2@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>62.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">168</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/ErGMkPaKCLMzoJhBgIf74rYIykp1">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>ErGMkPaKCLMzoJhBgIf74rYIykp1</schema:identifier>
+	<schema:name>Pablo Gabriel Loaiza Jiménez </schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>pabloloaiza987@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu1-dLljiekD5f4ZNIWbp0dl7jOSzGGxdsGqWul1=s96-c</schema:image>
+	<schema:weight>57.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">170</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/pn93HjUlIhP8C2VPh5nTVMIICPs2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>pn93HjUlIhP8C2VPh5nTVMIICPs2</schema:identifier>
+	<schema:name>Brayan Rueda</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>brayanibramovich@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:telephone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">988643465</schema:telephone>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu2Xl31KyiqoVVaRSWfYbIoVfRqCxvmPewczHAgq0A=s96-c</schema:image>
+	<schema:weight>65.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">165</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">22</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Ebq1juQmLjg4Pf0LkSMiSMhoQLt2">
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>Ebq1juQmLjg4Pf0LkSMiSMhoQLt2</schema:identifier>
+	<schema:name>Freemoveec</schema:name>
+	<schema:email>freemoveec@gmail.com</schema:email>
+	<schema:weight>55.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">166</schema:height>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/19aMA9v8UEY9Kjh9LC2JxIoTKnK2">
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>gab_jujav@hotmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>19aMA9v8UEY9Kjh9LC2JxIoTKnK2</schema:identifier>
+	<schema:name>Tyrone Alexander Guarderas Cabrera </schema:name>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>85.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">175</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/03pueSE7Lke3rm3SRvmRPaw9Meu2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>03pueSE7Lke3rm3SRvmRPaw9Meu2</schema:identifier>
+	<schema:name>Carlos Eduardo Díaz Robayo </schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>ma.agugustarobayo@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>75.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">181</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/HEKbgZLwQCZ65WTcdgBV4pQjiVE2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>HEKbgZLwQCZ65WTcdgBV4pQjiVE2</schema:identifier>
+	<schema:name>José Leonardo Mendieta Cabrera</schema:name>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:email>joseleonardo_16@hotmail.es</schema:email>
+	<schema:weight>70.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">170</schema:height>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/iGw6L9k9u4gBtuVVTTtgBgFEqHq1">
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>macastro27@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>iGw6L9k9u4gBtuVVTTtgBgFEqHq1</schema:identifier>
+	<schema:name>Máximo Andrés Castro Gálvez </schema:name>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>35.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">165</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">19</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/VdKZvhYMgtZ0uhVrLKSC8Sv3KcV2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>VdKZvhYMgtZ0uhVrLKSC8Sv3KcV2</schema:identifier>
+	<schema:name>Eddy Alexander Guamán Cárdenas </schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>anacristinaaguilarjapa@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu2ejzhQEguYbrkq1Zay4TG3W8moGxcwHxbAwals=s96-c</schema:image>
+	<schema:weight>60.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">169</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">24</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/oinlAWJhZ7PPsTAWldvl3vb7uT73">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>oinlAWJhZ7PPsTAWldvl3vb7uT73</schema:identifier>
+	<schema:name>Jhuleydi Paladines </schema:name>
+	<schema:gender>Femenino</schema:gender>
+	<schema:email>jhulapaladinesr@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>60.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">165</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/MrteDGlg0rRXx50GhIu2NouXbFF2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>MrteDGlg0rRXx50GhIu2NouXbFF2</schema:identifier>
+	<schema:name>Anthony Guerrero</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>anthonyg2p21@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>86.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">185</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/VYgwMfLnIcVgvbwS0b4VBXnooYL2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>VYgwMfLnIcVgvbwS0b4VBXnooYL2</schema:identifier>
+	<schema:name>Iván Andrés Álvarez Muñoz</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>iaalvarez3@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>89.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">165</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">19</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/ocZA2rYIHxOzeVUme5lkH14rh8h2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>ocZA2rYIHxOzeVUme5lkH14rh8h2</schema:identifier>
+	<schema:name>Carlos Eduardo Díaz Robayo </schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>cediaz10@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>75.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">181</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/BB0iGDFtzKc3glkpMdTr79ro9Dr1">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>BB0iGDFtzKc3glkpMdTr79ro9Dr1</schema:identifier>
+	<schema:name>Jefferson David López Pardo </schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>davidmetal001@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu141NRRpyzBP-3In_VxoiUDBf4amBjDXtiwtU7SOg=s96-c</schema:image>
+	<schema:weight>75.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">170</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">26</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/qZeuZptrSYQm90zzrWeAhr66XFD3">
+	<schema:name>Angel Mateo Ponce Peralta </schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>amponce8@utpl.edu.ec</schema:email>
+	<schema:telephone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">968991132</schema:telephone>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>qZeuZptrSYQm90zzrWeAhr66XFD3</schema:identifier>
+	<schema:weight>76.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">179</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/21mHT8WjwNcDGEbDVjlJIhpCr5P2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>21mHT8WjwNcDGEbDVjlJIhpCr5P2</schema:identifier>
+	<schema:name>Hared Gonzalez</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>hygonzalez@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>75.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">180</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/S5JiMXABVwRPmJd5VPzF8loN2dP2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>S5JiMXABVwRPmJd5VPzF8loN2dP2</schema:identifier>
+	<schema:name>Thomas Cabrera</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>tcabrera@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>70.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">174</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">19</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/U1zB1XAJRNRymymAM1fg6Qi31Ql1">
+	<schema:name>Cesar Silva</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>cesaraugustosilvaochoa@gmail.com</schema:email>
+	<schema:telephone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">968323221</schema:telephone>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>U1zB1XAJRNRymymAM1fg6Qi31Ql1</schema:identifier>
+	<schema:weight>55.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">167</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">25</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/xWPGbMCqeJYJRtlt7XjCG6CKvP23">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>xWPGbMCqeJYJRtlt7XjCG6CKvP23</schema:identifier>
+	<schema:name>Karen Lopez Garrido</schema:name>
+	<schema:gender>Femenino</schema:gender>
+	<schema:email>p88may@hotmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu0dLwFi6mztji8WzfitA7OnUWLIvzcFeMKzqM1q=s96-c</schema:image>
+	<schema:weight>60.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">158</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/X2Sl4Q98HNbQysGajTzt1EMAjoQ2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>X2Sl4Q98HNbQysGajTzt1EMAjoQ2</schema:identifier>
+	<schema:name>David Lituma</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>davidlitul@outlook.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>170.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">165</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Yh0hCgxGLscLsjUdgcLhQoML6mj1">
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>Yh0hCgxGLscLsjUdgcLhQoML6mj1</schema:identifier>
+	<schema:name>Karen López </schema:name>
+	<schema:gender>Femenino</schema:gender>
+	<schema:email>kylopez2@utpl.edu.ec</schema:email>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>60.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">158</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/ArMSJYVeTCPB6Yg46t9SNzfNh173">
+	<schema:name>Arianna Romyna Ortiz Guarnizo </schema:name>
+	<schema:gender>Femenino</schema:gender>
+	<schema:email>arortiz6@utpl.edu.ec</schema:email>
+	<schema:telephone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">959421915</schema:telephone>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>ArMSJYVeTCPB6Yg46t9SNzfNh173</schema:identifier>
+	<schema:weight>55.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">16</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/jZOj01mQpqP7R9GSM4ptoMIUa7j2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>jZOj01mQpqP7R9GSM4ptoMIUa7j2</schema:identifier>
+	<schema:name>Jhonatan Correa</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>jhonatans2002@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu1vEIS-Mpx2ElmcVdp0jjb_-XFT0BPkXPCcYD7sWrE=s96-c</schema:image>
+	<schema:weight>68.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">170</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/WAJyeCqPIOY6HkDrqv4o1qYO16k1">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>WAJyeCqPIOY6HkDrqv4o1qYO16k1</schema:identifier>
+	<schema:name>Marcos Ayora</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>mjayora2@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>69.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">173</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">19</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/oEag026bDgaF1wqBD5RvDX2LQij2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>oEag026bDgaF1wqBD5RvDX2LQij2</schema:identifier>
+	<schema:name>Alexander Carrera Cordova</schema:name>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:email>patocarrera2002@gmail.com</schema:email>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu0zBxbDjYzIPWTjZxmZ8tniM2mTJ_K5AW7tLJwU=s96-c</schema:image>
+	<schema:weight>0.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</schema:height>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Brm4TXnChtUHibDKd7C5h7gs7ia2">
+	<schema:name>Xavier Alejandro Macas Castillo</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>xamacas@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>Brm4TXnChtUHibDKd7C5h7gs7ia2</schema:identifier>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>63.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">170</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/D95eOYorlCObwJR5T2W00O08gnW2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>D95eOYorlCObwJR5T2W00O08gnW2</schema:identifier>
+	<schema:name>Mónica </schema:name>
+	<schema:gender>Femenino</schema:gender>
+	<schema:email>gabicp.0397@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu1v2fcbzmA_omAOCEEGjUnXQQ-SiQqBSu6ev3ByxA=s96-c</schema:image>
+	<schema:weight>52.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">151</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">22</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/ueruK2k3r8fvmkFvw65Db518pN72">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>ueruK2k3r8fvmkFvw65Db518pN72</schema:identifier>
+	<schema:name>Estefany Gabriela Andino Guevara </schema:name>
+	<schema:gender>Femenino</schema:gender>
+	<schema:email>egandino@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>70.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">150</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/eqK5COZD0WSIt584SmjLz1HjrzL2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>eqK5COZD0WSIt584SmjLz1HjrzL2</schema:identifier>
+	<schema:name>Ricardo Benavides</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>rjbenavides2@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>62.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">165</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">24</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/nUPDKYfYv3OOIJWmELNSVPXIijG3">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>nUPDKYfYv3OOIJWmELNSVPXIijG3</schema:identifier>
+	<schema:name>Damian Aldair Delgado Pullaguari</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>damidelgado10.17@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>57.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">173</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gZcqbXP1BHcQ9MfEPEVNVNjbMie2">
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>gZcqbXP1BHcQ9MfEPEVNVNjbMie2</schema:identifier>
+	<schema:name>Jorge Paredes</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>jorge.sebastian3260@gmail.com</schema:email>
+	<schema:telephone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">980436167</schema:telephone>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu2BmZNUWwaIptItHSJfk389LHEH1S-tcEKQA7Wt=s96-c</schema:image>
+	<schema:weight>52.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">161</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/BwyAbcFWQAMreTvhwrYes6r1G4U2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>BwyAbcFWQAMreTvhwrYes6r1G4U2</schema:identifier>
+	<schema:name>Darwin Ariel Saraguro Barragan</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>dasaraguro1@utol.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>68.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">164</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/3pMw7rilmFUNfYoRYcVfyvlaV4n2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>3pMw7rilmFUNfYoRYcVfyvlaV4n2</schema:identifier>
+	<schema:name>Luis Francisco Gordillo Placencia</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>luisgordillo72@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu3Wx0RFbXT1kJms-pVBxXBTeuosTxfFWChRgr-4Vg=s96-c</schema:image>
+	<schema:weight>89.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">177</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/nmP9WfSTx0eY4u8q881hBjMS9P32">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>nmP9WfSTx0eY4u8q881hBjMS9P32</schema:identifier>
+	<schema:name>Luis Francisco Gordillo Placencia</schema:name>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>djhard.info@gmail.com</schema:email>
+	<schema:weight>89.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">177</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/elN4Q3BD9rZJpjattxoZVuoCzdc2">
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>elN4Q3BD9rZJpjattxoZVuoCzdc2</schema:identifier>
+	<schema:name>Cristhian Alexander Saca Vega</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>casaca@utpl.edu.ec</schema:email>
+	<schema:telephone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">961680762</schema:telephone>
+	<schema:weight>70.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">167</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">22</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/RZXAD9G186NgE7TzQqMpXq5d9MQ2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>RZXAD9G186NgE7TzQqMpXq5d9MQ2</schema:identifier>
+	<schema:name>Ximena Guarderas Ludeña</schema:name>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:email>ximeguarderas2@gmail.com</schema:email>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu3VkXFWUdDG10b8aX6Ck0qpUh6PKJq0w95OD6EXUOg=s96-c</schema:image>
+	<schema:weight>0.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</schema:height>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/aXYoIrpVmTfTipoLdkmZ8erGKKq1">
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>aXYoIrpVmTfTipoLdkmZ8erGKKq1</schema:identifier>
+	<schema:name>Hared Yassir Gonzalez Armijos</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>hared.gonzalez@unl.edu.ec</schema:email>
+	<schema:telephone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">986651773</schema:telephone>
+	<schema:image>https://lh3.googleusercontent.com/a-/ACNPEu-3tBIHSKn68O0yPYH8q2EJ2BhE7MemFYOp15lg0TFiUFApP4mO0odnfgh-84cz8t1N4OYz19kRcwfSlx-rI287Z-oebFE_Pke3yfA03sKdalEpzVDjcHiKL1n2T9FiuvOD3GeZIuhrW_iueLTN28Qd1khnrKk_9mHBwicZnda6cS8MMRFKQolM9kY_kynPSP-9mtOTuMDwQi9oTJKPsQ-UAHxDx3IR97aacrBXcLVPxH7vTfCmJuIwL8Lkb61lnxciVVnhSsyXFkM9oQYdze3pixvnvmr5TyTDnFUk5JKKhXsx8jnHNo_PixYVjGEYFLk7IqgQLTmkFEA0LZCmqv-1-0oSNv_QZx5EWLqz_ezkN6C1qPZDBjQBhobZEaZXJ9Kb9v_SSEhfc6y0UWhPBeOih7sukpn9k-SuBjhma84JeWZXXgE8LHjaXzM6BIdlKWyV1mNcNmeQtkjZER-HIIe7sRrmNrra_DRmIvb4RPDn20mBYwW2vZWueeerAsA7ljT2VHUxcWxb-gyDVCKAVRx8D1htPp4-XamQvqyxtVNay7SKjV2A2a2sLh6wfQOqXVLpfdZgbz37ogjgcsPWvcm8EAPkXopaG_VAuvLQrHY7kCSCNYQVl6gi_DsQtx5cPcx8P5cyle65zchzlP0GqHB3zbdPDm7t9hR6JtsRtdiHEuwYbvSxkLqjS63nrfEpFHUr35dFCYnGVYGSLaQJjflDqMCDCML8ddHRvNTazRQChPfSgxuAs3CzP-naqVFLlb7z7VduruK2dnI70PhED7GOI98BDpP40aX72hgQOYtwNg5uSCCGoPikBcygzPLGlr1uAEY8u-bKzEPqHShh308Vc--hmUzuY0EAoYthbbGi3im3YJeQXv3sAMUW49zxoSc5KKT82xJXjuLmzZxEqXm-VI7wNVjAwmHtoDXWbPSFN8RID5ULISH01vIu=s96-c</schema:image>
+	<schema:weight>75.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">180</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Ho9A04erBsYyqhJz2m2zz2pDl5C2">
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>Ho9A04erBsYyqhJz2m2zz2pDl5C2</schema:identifier>
+	<schema:name>Anthony Torres </schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>abtorres5@utpl.edu.ec</schema:email>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>63.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">170</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/rTxh2iRYS7h1SHbHryZdjEk6RF32">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>rTxh2iRYS7h1SHbHryZdjEk6RF32</schema:identifier>
+	<schema:name>Diego Vivanco</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>dvivanco3@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>70.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">176</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/2MAWs3Vec6Q3Ji55t5Tq1Nloxhe2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>2MAWs3Vec6Q3Ji55t5Tq1Nloxhe2</schema:identifier>
+	<schema:name>Ximena Elizabeth Guarderas Ludeña</schema:name>
+	<schema:gender>Femenino</schema:gender>
+	<schema:email>xeguarderas@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>65.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">159</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/z0IRKfSyKHMN4QfnPxnxqlm3ZMC2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>z0IRKfSyKHMN4QfnPxnxqlm3ZMC2</schema:identifier>
+	<schema:name>Jahela Armijos</schema:name>
+	<schema:gender>Femenino</schema:gender>
+	<schema:email>mjarmijos14@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>65.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">160</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/llZnxyWdS7eLuRE7VHmfeXDO4xC2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:identifier>llZnxyWdS7eLuRE7VHmfeXDO4xC2</schema:identifier>
+	<schema:name>Lacohur</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>conthurd@gmail.com</schema:email>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu1bifmF1vI74BoFAc5tz8FwJFYHnfTaOB2MSvWRZQ=s96-c</schema:image>
+	<schema:weight>96.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">170</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">34</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/TXTU1scnmaX5QBTgsTaoATRf6RL2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>TXTU1scnmaX5QBTgsTaoATRf6RL2</schema:identifier>
+	<schema:name>Andrés David Apolo Cabrera </schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>adapolo2@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>53.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">164</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/rSYIQoAusfebVAGkqQc7WahsVsu1">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>rSYIQoAusfebVAGkqQc7WahsVsu1</schema:identifier>
+	<schema:name>Erwin Lapo</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>erlapo2@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>66.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">171</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/dJWjUOWLkVOa4EGevOFuQ12vwn83">
+	<schema:name>Kevin Josue Armijos Ruilova </schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>kjarmijos2@utpl.edu.ec</schema:email>
+	<schema:telephone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">981446683</schema:telephone>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>dJWjUOWLkVOa4EGevOFuQ12vwn83</schema:identifier>
+	<schema:weight>70.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">170</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/YJNAW5vkHBSI0Hl3l6SlDP9NRFp2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>YJNAW5vkHBSI0Hl3l6SlDP9NRFp2</schema:identifier>
+	<schema:name>Mathias Castro</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>mscastro13@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>65.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">160</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Aea7BIgxckM2psQleMOCosxOoqx1">
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>Aea7BIgxckM2psQleMOCosxOoqx1</schema:identifier>
+	<schema:name>Sebastian Carvallo</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>chinosebas15@gmail.com</schema:email>
+	<schema:telephone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">990738441</schema:telephone>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu00bbchiU2JCAoXCk7MHeT_xf3SPtGnrxHxDCfR=s96-c</schema:image>
+	<schema:weight>66.5</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">175</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">19</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/qNF6u7rWARh1gx5yz2DAf1tcvBk1">
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>qNF6u7rWARh1gx5yz2DAf1tcvBk1</schema:identifier>
+	<schema:name>Nicolas Iñiguez </schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>nainiguez@utpl.edu.ec</schema:email>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>74.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">171</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/OPIJlWgVeMgLWBJEacOeK1mg00d2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>OPIJlWgVeMgLWBJEacOeK1mg00d2</schema:identifier>
+	<schema:name>Carlos Isaac Cevallos Aguirre</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>cicevallos4@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>71.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">177</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/wVXrUbaYzlOW8MnQnFA2OZpTBPr1">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>wVXrUbaYzlOW8MnQnFA2OZpTBPr1</schema:identifier>
+	<schema:name>Javier Jimenez</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>javierjim0710@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu0R3LZSHKsYvAPMZeOIPpZWLbhPox3LIgRrd_kZ=s96-c</schema:image>
+	<schema:weight>60.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">174</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/ucYdOe6PrCcFJBcfvIfHZlgmHUz2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>ucYdOe6PrCcFJBcfvIfHZlgmHUz2</schema:identifier>
+	<schema:name>Alex Pérez </schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>palexleon26@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>60.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">175</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">25</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/KW8hpkzvV5ejUYoxW7G5H8k9YnJ3">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>KW8hpkzvV5ejUYoxW7G5H8k9YnJ3</schema:identifier>
+	<schema:name>Luis Fernando Montaño </schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>lfmontano@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>75.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">175</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/zrihjNagyiOIgkaV0QMoc4GgOua2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>zrihjNagyiOIgkaV0QMoc4GgOua2</schema:identifier>
+	<schema:name>María Gabriela Caraguay Patiño </schema:name>
+	<schema:gender>Femenino</schema:gender>
+	<schema:email>mgcaraguay@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>57.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">151</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">25</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/h8u2VGpHgtT710IsCOQrB3WJ42v2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>h8u2VGpHgtT710IsCOQrB3WJ42v2</schema:identifier>
+	<schema:name>Oscar Gaona</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>oscargaona398@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu0oxfeY7XzRTla55ogzIqm1FHxcuxtUi_q54J2C=s96-c</schema:image>
+	<schema:weight>60.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">174</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/SlGsbhiYSWeYb3Vvy5E5vCwDC032">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>SlGsbhiYSWeYb3Vvy5E5vCwDC032</schema:identifier>
+	<schema:name>Jim Simancas </schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>jasimancas@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>72.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">183</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/NmhKhcPkKzNnkjvRGwmKGZi0HeI2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>NmhKhcPkKzNnkjvRGwmKGZi0HeI2</schema:identifier>
+	<schema:name>Lauro Daniel Montalvan Bravo </schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>ldmontalvan@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>64.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">168</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">19</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/ycevbgyFdsVOTNnfIHoVKGrtk0m1">
+	<schema:name>Fabian David Quizhpe Abad </schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>fabdavid21@gmail.com</schema:email>
+	<schema:telephone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">988792985</schema:telephone>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>ycevbgyFdsVOTNnfIHoVKGrtk0m1</schema:identifier>
+	<schema:weight>80.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">170</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">22</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/ik8ce7M2PqRpnzUN4stpJOm2n262">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>ik8ce7M2PqRpnzUN4stpJOm2n262</schema:identifier>
+	<schema:name>Génesis Danjhely Becerra Ortiz </schema:name>
+	<schema:gender>Femenino</schema:gender>
+	<schema:email>gdbecerra@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:weight>68.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">157</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/mIp1oJiAU6WSy7OlPr20yorT8kv1">
+	<schema:identifier>mIp1oJiAU6WSy7OlPr20yorT8kv1</schema:identifier>
+	<schema:name>Juan Fernando Herrera Zárate </schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>jfherrera12@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>65.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">160</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">22</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/F678viGDwMWe9OOrk1JcFS29DdW2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>F678viGDwMWe9OOrk1JcFS29DdW2</schema:identifier>
+	<schema:name>David Lopez Pardo</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>jdlopez6@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>75.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">170</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">26</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/YWPXjAG46oMdEsNsJkqRgwKWEwS2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>YWPXjAG46oMdEsNsJkqRgwKWEwS2</schema:identifier>
+	<schema:name>Carlos Fernando Feijoo Veintimilla </schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>cffeijoo@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>84.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">170</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">26</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/qFRqCodrjxRIWISJ7yRZvy3eWox1">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>qFRqCodrjxRIWISJ7yRZvy3eWox1</schema:identifier>
+	<schema:name>Alex Xavier Aguinsaca Aguinsaca</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>axaguinsaca@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>71.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">168</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">30</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/BFF9Brg1PrYkpAwxxXKu6jr0GEv2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>BFF9Brg1PrYkpAwxxXKu6jr0GEv2</schema:identifier>
+	<schema:name>Kevin Alexander Ojeda Merino </schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>ojedaalexander651@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu2sDJGBFj1ny40mnA7BSZ_HYwPTfxqJ1H9m-PhOuw=s96-c</schema:image>
+	<schema:weight>64.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">165</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/YxnOkEEEl7eLRjjxvoUZTkt1K0W2">
+	<schema:name>Kevin Alexander Ojeda Merino </schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>kaojeda3@utpl.edu.ec</schema:email>
+	<schema:telephone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">969738196</schema:telephone>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>YxnOkEEEl7eLRjjxvoUZTkt1K0W2</schema:identifier>
+	<schema:weight>64.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">165</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/kdSpDOBKXeVnRkht7xMLiAT4eAr1">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>kdSpDOBKXeVnRkht7xMLiAT4eAr1</schema:identifier>
+	<schema:name>Darwin Ariel Saraguro Barragan</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>darwinariel1110@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu0oFNzcsOOLUyD61B9_0fD1CtaH59lQa8irhFTXVQ=s96-c</schema:image>
+	<schema:weight>68.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">164</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/AOOIp5hXTOa86MypT2X0rak4TMA3">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>AOOIp5hXTOa86MypT2X0rak4TMA3</schema:identifier>
+	<schema:name>Verónica Guadalupe Calva Litardo</schema:name>
+	<schema:gender>Femenino</schema:gender>
+	<schema:email>calvaguadalupe@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>60.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">160</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/PxEg2ZfJeXSL76VFU4fPoyQH6Ue2">
+	<schema:name>Stefany Jhulissa Benitez Uchuari</schema:name>
+	<schema:gender>Femenino</schema:gender>
+	<schema:email>stefanybenitez2902@gmail.com</schema:email>
+	<schema:telephone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">988420269</schema:telephone>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>PxEg2ZfJeXSL76VFU4fPoyQH6Ue2</schema:identifier>
+	<schema:weight>60.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">158</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/d4WhFsq5YmVITZ16hFpjzzeRA8k1">
+	<schema:name>Nicolas Andres Iñiguez</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>nicolasiniguez06@gmail.com</schema:email>
+	<schema:telephone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">988191838</schema:telephone>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>d4WhFsq5YmVITZ16hFpjzzeRA8k1</schema:identifier>
+	<schema:weight>74.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">171</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/ZqNrkTTj1ofH2qPiMTNStHZRMF83">
+	<schema:name>Donie Lorraine Samaniego Guaman</schema:name>
+	<schema:gender>Femenino</schema:gender>
+	<schema:email>donielorraine15@gmail.com</schema:email>
+	<schema:telephone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">993029114</schema:telephone>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>ZqNrkTTj1ofH2qPiMTNStHZRMF83</schema:identifier>
+	<schema:weight>60.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">156</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/CTy9DZrtAxeOaY0Y424BWXkwXMh1">
+	<schema:name>Pablo Alejandro Figueroa Camacho</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>pafigueroa3@utpl.edu.ec</schema:email>
+	<schema:telephone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">990200377</schema:telephone>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>CTy9DZrtAxeOaY0Y424BWXkwXMh1</schema:identifier>
+	<schema:weight>68.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">164</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/duHRSsH0cgU2oHrEwDp4tPXas5C2">
+	<schema:name>Leonel Alejandro Loyola Alama</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>leoloyolamessi@gmail.com</schema:email>
+	<schema:telephone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">999963554</schema:telephone>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>duHRSsH0cgU2oHrEwDp4tPXas5C2</schema:identifier>
+	<schema:weight>77.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">164</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/PvujffOfG2R9qrwVPaHZypTRYQf1">
+	<schema:name>Jorge Andrés González Godoy</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>jagonzalez57@utpl.edu.ec</schema:email>
+	<schema:telephone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">993333486</schema:telephone>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>PvujffOfG2R9qrwVPaHZypTRYQf1</schema:identifier>
+	<schema:weight>90.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">174</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">22</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/cbyASlzQVIV3OV4h1rtyZFSDd522">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>cbyASlzQVIV3OV4h1rtyZFSDd522</schema:identifier>
+	<schema:name>Yandry Alejo Torres </schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>yralejo@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:weight>67.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">166</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Lz9148LEGhOiI1w1jdynCqMCWhz2">
+	<schema:identifier>Lz9148LEGhOiI1w1jdynCqMCWhz2</schema:identifier>
+	<schema:name>Paula Daniela Carrión Salinas </schema:name>
+	<schema:gender>Femenino</schema:gender>
+	<schema:email>pdcarrion3@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:weight>57.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">164</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Q5pCCYxVLJNp5TrugAvw56tdYAS2">
+	<schema:identifier>Q5pCCYxVLJNp5TrugAvw56tdYAS2</schema:identifier>
+	<schema:name>Máximo Castro </schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>maxcasg@hotmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:weight>40.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">165</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">19</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/ZWgyUGvoUPMjHzmB32w89mRoy7b2">
+	<schema:identifier>ZWgyUGvoUPMjHzmB32w89mRoy7b2</schema:identifier>
+	<schema:name>Luis Francisco Gordillo Placencia</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>lfgordillo2@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:weight>89.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">177</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">24</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/x4SvgX20IVgEqQ2bhdkOmU0EWFH2">
+	<schema:identifier>x4SvgX20IVgEqQ2bhdkOmU0EWFH2</schema:identifier>
+	<schema:name>Tatiana Jaramillo</schema:name>
+	<schema:gender>Femenino</schema:gender>
+	<schema:email>tatys0623@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>54.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">166</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">35</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/YQyJhQ5Vw7SfMg4rEtpJmtz6fNW2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>YQyJhQ5Vw7SfMg4rEtpJmtz6fNW2</schema:identifier>
+	<schema:name>Ramiro Leonardo Ramirez Coronel</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>rlramirez656@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu0UyS3fDIOonpr3q1wnmOqSBymTrJCGrk5AYcM0MQ=s96-c</schema:image>
+	<schema:weight>85.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">178</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">40</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/2vb8zVmSoCNtnX9HRwiTDCPnHrn1">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>2vb8zVmSoCNtnX9HRwiTDCPnHrn1</schema:identifier>
+	<schema:name>Taty2 Jaramillo </schema:name>
+	<schema:gender>Femenino</schema:gender>
+	<schema:email>tejaramillo@utpl.edu.ec</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/assets%2Fdefault_user_image.png?alt=media&amp;token=0974f49e-569d-4a7d-a824-0c9e86e4100a</schema:image>
+	<schema:weight>154.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">165</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">35</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/E3AvenhDP1c3P04IyyrYv9ZM1Sn2">
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>E3AvenhDP1c3P04IyyrYv9ZM1Sn2</schema:identifier>
+	<schema:name>Prueba De Registro</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>prueba@gmail.com</schema:email>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/userPhotos%2F1669079527367-block.png?alt=media&amp;token=2b201b57-7996-47c1-81a4-e83786ebdbf7</schema:image>
+	<schema:weight>80.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">180</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">22</bikeways:cyclistAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Hu7zIwSUamRKMEDDPzu9qpE1rpt2">
+	<schema:name>Ian Carlos Ortega</schema:name>
+	<schema:gender>Masculino</schema:gender>
+	<schema:email>iancarlosortegaleon@gmail.com</schema:email>
+	<schema:telephone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">995544833</schema:telephone>
+	<rdf:type rdf:resource="http://schema.org/Person"/>
+	<rdf:type rdf:resource="https://bikeways.org/Cyclist"/>
+	<schema:identifier>Hu7zIwSUamRKMEDDPzu9qpE1rpt2</schema:identifier>
+	<schema:image>https://lh3.googleusercontent.com/a/ALm5wu3yV9MlyByg0aqBNHv86dKCd-P2r-GVoCmyQWDMi1w=s96-c</schema:image>
+	<schema:weight>70.0</schema:weight>
+	<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int">172</schema:height>
+	<schema:nationality rdf:resource="http://dbpedia.org/resource/Category:Ecuador"/>
+	<bikeways:cyclistAge rdf:datatype="http://www.w3.org/2001/XMLSchema#int">22</bikeways:cyclistAge>
+</rdf:Description>
+
+</rdf:RDF>

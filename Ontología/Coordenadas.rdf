@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:schema="http://schema.org/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:bikeways="https://bikeways.org/">
+
+<rdf:Description rdf:about="https://bikeways.org/gsp001">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gsp001</schema:identifier>
+	<schema:geo>-3.9814935, -79.2026335</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp002">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gsp002</schema:identifier>
+	<schema:geo>-4.005156, -79.2033681</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp003">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gsp003</schema:identifier>
+	<schema:geo>-3.9954277, -79.1983536</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp004">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gsp004</schema:identifier>
+	<schema:geo>-3.9858742, -79.2012149</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp005">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gsp005</schema:identifier>
+	<schema:geo>-4.0065228, -79.2013282</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp006">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gsp006</schema:identifier>
+	<schema:geo>-4.0023572, -79.2004507</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp007">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gsp007</schema:identifier>
+	<schema:geo>-3.9931322, -79.2017429</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp008">
+	<schema:geo>-4.0011956, -79.1999134</schema:geo>
+	<schema:identifier>gsp008</schema:identifier>
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp009">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gsp009</schema:identifier>
+	<schema:geo>-3.9961199, -79.201269</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp010">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gsp010</schema:identifier>
+	<schema:geo>-3.9741987, -79.2029466</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp011">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gsp011</schema:identifier>
+	<schema:geo>-3.9964799, -79.1981459</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp012">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gsp012</schema:identifier>
+	<schema:geo>-3.9941608, -79.20442</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp013">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gsp013</schema:identifier>
+	<schema:geo>-3.9731807, -79.2030858</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp014">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gsp014</schema:identifier>
+	<schema:geo>-4.0047616, -79.2008094</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp015">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gsp015</schema:identifier>
+	<schema:geo>-3.9843398, -79.2044845</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp016">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gsp016</schema:identifier>
+	<schema:geo>-3.9925193, -79.2041316</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp017">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gsp017</schema:identifier>
+	<schema:geo>-3.986274, -79.2011013</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp018">
+	<schema:identifier>gsp018</schema:identifier>
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:geo>-3.9780714, -79.2025325</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp019">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gsp019</schema:identifier>
+	<schema:geo>-4.0036248, -79.2034726</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gsp020">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gsp020</schema:identifier>
+	<schema:geo>-3.9917483, -79.2044876</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep001">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gep001</schema:identifier>
+	<schema:geo>-3.9946914, -79.198409</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep002">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gep002</schema:identifier>
+	<schema:geo>-3.9965072, -79.2041065</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep003">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gep003</schema:identifier>
+	<schema:geo>-3.9937927, -79.201447</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep004">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gep004</schema:identifier>
+	<schema:geo>-3.9755471, -79.2022839</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep005">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gep005</schema:identifier>
+	<schema:geo>-4.0133977, -79.2011442</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep006">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gep006</schema:identifier>
+	<schema:geo>-4.0128679, -79.2027664</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep007">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gep007</schema:identifier>
+	<schema:geo>-3.995103, -79.2042273</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep008">
+	<schema:identifier>gep008</schema:identifier>
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:geo>-3.992512, -79.1999903</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep009">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gep009</schema:identifier>
+	<schema:geo>-3.9922003, -79.2014127</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep010">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gep010</schema:identifier>
+	<schema:geo>-3.9880466, -79.2006045</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep011">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gep011</schema:identifier>
+	<schema:geo>-4.0022875, -79.1992198</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep012">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gep012</schema:identifier>
+	<schema:geo>-4.0012738, -79.2001889</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep013">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gep013</schema:identifier>
+	<schema:geo>-3.9828849, -79.2025254</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep014">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gep014</schema:identifier>
+	<schema:geo>-3.9986392, -79.1979826</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep015">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gep015</schema:identifier>
+	<schema:geo>-3.9862091, -79.2058727</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep016">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gep016</schema:identifier>
+	<schema:geo>-4.0082436, -79.2032239</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep017">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gep017</schema:identifier>
+	<schema:geo>-3.9842731, -79.2044421</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep018">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gep018</schema:identifier>
+	<schema:geo>-3.974718, -79.2027513</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep019">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gep019</schema:identifier>
+	<schema:geo>-4.011536, -79.2028391</schema:geo>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/gep020">
+	<rdf:type rdf:resource="http://schema.org/GeoCoordinates"/>
+	<schema:identifier>gep020</schema:identifier>
+	<schema:geo>-3.9891767, -79.2092048</schema:geo>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,21 @@
+;identifier;name;material;size;streetStatus;streetType;streetSignaling;startPosition;endPosition
+0;st001;Avenida Orillas Del Zamora;Pavimento;100.0;Habilitada;Compartida;Señalizada;gsp001;gep001
+1;st002;18 De Noviembre;Pavimento;50.0;Deshabilitada;Compartida;No señalizada;gsp002;gep002
+2;st003;Avenida Emiliano Ortega;Concreto;75.0;Habilitada;Segregada;No señalizada;gsp003;gep003
+3;st004;Santiago De Las Montañas;Concreto;30.0;Deshabilitada;Segregada;No señalizada;gsp004;gep004
+4;st005;Eduardo Kingman;Concreto;100.0;Parcialmente habilitada;Compartida;Señalizada;gsp005;gep005
+5;st006;Lourdes;Adoquín;70.0;Habilitada;Segregada;No señalizada;gsp006;gep006
+6;st007;Quito;Pavimento;70.0;Habilitada;Segregada;No señalizada;gsp007;gep007
+7;st008;José Joaquín De Olmedo;Pavimento;100.0;Habilitada;Compartida;Señalizada;gsp008;gep008
+8;st009;Bernardo Valdivieso;Pavimento;100.0;Habilitada;Compartida;Señalizada;gsp009;gep009
+9;st010;Daniel Armijos C.;Concreto;75.0;Deshabilitada;Compartida;No señalizada;gsp010;gep010
+10;st011;24 De Mayo;Pavimento;88.3;Habilitada;Compartida;Señalizada;gsp011;gep011
+11;st012;Imbabura;Pavimento;90.4;Deshabilitada;Compartida;No señalizada;gsp012;gep012
+12;st013;Velasco Ibarra;Concreto;92.5;Habilitada;Segregada;No señalizada;gsp013;gep013
+13;st014;González Suárez;Concreto;94.5;Deshabilitada;Segregada;No señalizada;gsp014;gep014
+14;st015;Avenida Gran Colombia;Concreto;96.6;Parcialmente habilitada;Compartida;Señalizada;gsp015;gep015
+15;st016;José Félix De Valdivieso;Adoquín;98.6;Habilitada;Segregada;No señalizada;gsp016;gep016
+16;st017;Pedro De Cianca;Concreto;100.7;Habilitada;Segregada;No señalizada;gsp017;gep017
+17;st018;Sta. Rosa;Pavimento;102.8;Habilitada;Compartida;Señalizada;gsp018;gep018
+18;st019;Catacocha;Pavimento;104.8;Habilitada;Compartida;Señalizada;gsp019;gep019
+19;st020;Juan De Salinas;Concreto;106.9;Deshabilitada;Compartida;No señalizada;gsp020;gep020

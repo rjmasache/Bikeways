@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:schema="http://schema.org/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:bikeways="https://bikeways.org/">
+
+<rdf:Description rdf:about="https://bikeways.org/0OhmdV0wY4s3AzILtUMn">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>0OhmdV0wY4s3AzILtUMn</schema:identifier>
+	<schema:name>Infraccion</schema:name>
+	<schema:category>Accidente</schema:category>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP2007669301180568698.jpg?alt=media&amp;token=32baa643-8cf2-49a5-a4b8-e0a4a073d235</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-01 21:03:26.093000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2011187,-4.0054973</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/AAREuNQKZ4QHctIQWlsa">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/0OhmdV0wY4s3AzILtUMn">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/AAREuNQKZ4QHctIQWlsa"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/0T765mTW9vNmYtjmGxsL">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>0T765mTW9vNmYtjmGxsL</schema:identifier>
+	<schema:name>Invasion</schema:name>
+	<schema:category>Ciclovía obstruida</schema:category>
+	<schema:description>Peatón circula la vía </schema:description>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP3923918548882571618.jpg?alt=media&amp;token=2bde5105-5934-4003-aa35-a658ae76162d</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-30 20:16:22.135000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2044171,-3.9924947</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/xnFzRTIJWOI4ya7b5mQj">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/0T765mTW9vNmYtjmGxsL">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/xnFzRTIJWOI4ya7b5mQj"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/2f7kSyCURB0fsTb1ScxW">
+	<schema:identifier>2f7kSyCURB0fsTb1ScxW</schema:identifier>
+	<schema:name>Invasión 2</schema:name>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-26 13:07:58.270000+00:00</schema:startDate>
+	<schema:category>Ciclovía obstruida</schema:category>
+	<schema:description>Persona obstruye ciclovia, sector del colegio técnico. </schema:description>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP1622151132228875078.jpg?alt=media&amp;token=9064f797-09b9-4b8f-853a-7bae309d58f4</schema:image>
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2007157,-3.9876452</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/e5llivtyMROSHwfuppj5">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/2f7kSyCURB0fsTb1ScxW">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/e5llivtyMROSHwfuppj5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/3G9mU0NdnQ4D0HvM2Ms5">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<schema:name>Ruta ecológica </schema:name>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>3G9mU0NdnQ4D0HvM2Ms5</schema:identifier>
+	<schema:category>Accidente</schema:category>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP4820803622253456051.jpg?alt=media&amp;token=e2626349-512d-4048-a5f7-397c66b0c07d</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-27 12:31:08.726000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2199435,-3.9481086</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/nyVEUtsSpD4PDacBeuRO">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/3G9mU0NdnQ4D0HvM2Ms5">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/nyVEUtsSpD4PDacBeuRO"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/61xr0xDVgzeJbZ2eTkaj">
+	<schema:category>Robo</schema:category>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>61xr0xDVgzeJbZ2eTkaj</schema:identifier>
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<schema:name>Robo: 23-11-2022</schema:name>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP7527284396711892028.jpg?alt=media&amp;token=24306c5e-5119-4122-a962-1e6e6be052ca</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-23 23:46:12.529000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.1981809,-3.9878898</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/fO7QERhSz3UeKvXEPnOg">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/61xr0xDVgzeJbZ2eTkaj">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/fO7QERhSz3UeKvXEPnOg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/6ruFtBMUGxsGlWOnoIgd">
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<schema:identifier>6ruFtBMUGxsGlWOnoIgd</schema:identifier>
+	<schema:name>Invasion</schema:name>
+	<schema:category>Ciclovía obstruida</schema:category>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP6603835897088945180.jpg?alt=media&amp;token=1145dbb6-81e1-4253-a5bc-3cd789f12348</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-30 21:30:02.147000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2032409,-4.0013816</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/NaX0dIpGrRnQmTRCNuIh">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/6ruFtBMUGxsGlWOnoIgd">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/NaX0dIpGrRnQmTRCNuIh"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/8LSj7HWAXGe5didlVEQb">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>8LSj7HWAXGe5didlVEQb</schema:identifier>
+	<schema:name>Invasión de ciclovía </schema:name>
+	<schema:category>Accidente</schema:category>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP7108783606517996516.jpg?alt=media&amp;token=b72c9956-0d89-41b3-bc3f-32188682a976</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-26 16:14:14.579000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.1987374,-3.993768</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/dzT3MWw9RIVa9KLUJo42">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/8LSj7HWAXGe5didlVEQb">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/dzT3MWw9RIVa9KLUJo42"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/8lo5N98u9GroXXDHxBBd">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>8lo5N98u9GroXXDHxBBd</schema:identifier>
+	<schema:name>Moto infractora</schema:name>
+	<schema:category>Accidente</schema:category>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP8121422219493920872.jpg?alt=media&amp;token=d1c1bcc2-596a-42cf-a77e-707075ebdca2</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-01 23:27:39.523000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.1984667,-4.00227</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/N7x3Z9LWtux2X5cVW9mx">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/8lo5N98u9GroXXDHxBBd">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/N7x3Z9LWtux2X5cVW9mx"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/9MtCia7cXwsrCky6fyq8">
+	<schema:name>Invasión #5</schema:name>
+	<schema:category>Ciclovía obstruida</schema:category>
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>9MtCia7cXwsrCky6fyq8</schema:identifier>
+	<schema:description>Motociclista se estaciona en la ciclovía </schema:description>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP7992965506728399809.jpg?alt=media&amp;token=39c9657e-a77a-4c44-b904-e527da7d22fa</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-26 13:19:22.985000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2001633,-3.996025</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/HcXyIfSD563SoGzot4Rr">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/9MtCia7cXwsrCky6fyq8">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/HcXyIfSD563SoGzot4Rr"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/BItR1wHEupvROHHqAici">
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<schema:name>Invasión </schema:name>
+	<schema:identifier>BItR1wHEupvROHHqAici</schema:identifier>
+	<schema:category>Accidente</schema:category>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP672894164710908415.jpg?alt=media&amp;token=d742fa56-e67e-4949-9da6-8e31955a1e16</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-28 11:51:00.867000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2025423,-3.9807856</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/0undJ78yDgaMJWMiteVI">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/BItR1wHEupvROHHqAici">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/0undJ78yDgaMJWMiteVI"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/BWcttQFaM1swz7Cj091P">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>BWcttQFaM1swz7Cj091P</schema:identifier>
+	<schema:name>Invasión </schema:name>
+	<schema:category>Accidente</schema:category>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP672894164710908415.jpg?alt=media&amp;token=34389721-0c65-4159-84d4-c24052329b0b</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-28 11:50:58.333000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2025423,-3.9807856</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/0undJ78yDgaMJWMiteVI">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/BWcttQFaM1swz7Cj091P">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/0undJ78yDgaMJWMiteVI"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/CBzl7SD20gk1yTM4Pntr">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>CBzl7SD20gk1yTM4Pntr</schema:identifier>
+	<schema:name>Invasión ciclovía </schema:name>
+	<schema:category>Accidente</schema:category>
+	<schema:description>Carro estacionado en ciclovía </schema:description>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-04 16:59:56.745000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2027256,-4.00248</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/MeaXvJQrMw6MsQKoTBZB">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/CBzl7SD20gk1yTM4Pntr">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/MeaXvJQrMw6MsQKoTBZB"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Dm1frIFH7fl3RlZi5for">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<schema:identifier>Dm1frIFH7fl3RlZi5for</schema:identifier>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:name>Obstáculo </schema:name>
+	<schema:category>Accidente</schema:category>
+	<schema:description>Rama en ciclovía </schema:description>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-03 21:52:57.821000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2012187,-4.0098018</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/DfBWV67ZyYCmUe1tTgZV">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Dm1frIFH7fl3RlZi5for">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/DfBWV67ZyYCmUe1tTgZV"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/FsjTBFundjEsRVRhkYAY">
+	<schema:name>Accidente: 27-11-2022</schema:name>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>FsjTBFundjEsRVRhkYAY</schema:identifier>
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<schema:category>Accidente</schema:category>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP7730703556688684811.jpg?alt=media&amp;token=3d847c61-9591-4053-a440-a60302c37491</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-27 12:29:21.828000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2199385,-3.9481061</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/nyVEUtsSpD4PDacBeuRO">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/FsjTBFundjEsRVRhkYAY">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/nyVEUtsSpD4PDacBeuRO"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/GUlTFcUgXJCiK1eXWUuC">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>GUlTFcUgXJCiK1eXWUuC</schema:identifier>
+	<schema:name>Accidente: 27-11-2022</schema:name>
+	<schema:category>Accidente</schema:category>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP1693351244734287503.jpg?alt=media&amp;token=0e21fb6d-5bdc-4655-abf9-82297aeae580</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-27 13:23:13.644000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2256168,-3.9438577</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/6Zc2zHh9cfRDK08c3L9o">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/GUlTFcUgXJCiK1eXWUuC">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/6Zc2zHh9cfRDK08c3L9o"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/GdZZCwIDEPn1xRjovoOR">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>GdZZCwIDEPn1xRjovoOR</schema:identifier>
+	<schema:name>Invasión 4</schema:name>
+	<schema:category>Ciclovía obstruida</schema:category>
+	<schema:description>Motocicleta invadiendo ciclovia. </schema:description>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP6860625265941920646.jpg?alt=media&amp;token=dbb4ff5e-d84a-45d5-8531-78f8061b6bda</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-26 13:19:52.068000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2013669,-3.9961203</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/e5llivtyMROSHwfuppj5">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/GdZZCwIDEPn1xRjovoOR">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/e5llivtyMROSHwfuppj5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/GhSXwh1rioUhfZte7QIf">
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:name>Invasión 2</schema:name>
+	<schema:category>Ciclovía obstruida</schema:category>
+	<schema:identifier>GhSXwh1rioUhfZte7QIf</schema:identifier>
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<schema:description>Persona obstruye ciclovia, sector del colegio técnico. </schema:description>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP1622151132228875078.jpg?alt=media&amp;token=a73fd333-21cd-47ee-8952-26fdbda7c44c</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-26 13:08:04.582000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2007157,-3.9876452</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/e5llivtyMROSHwfuppj5">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/GhSXwh1rioUhfZte7QIf">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/e5llivtyMROSHwfuppj5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/GruikXBXFBoWXJrfdd7Y">
+	<schema:name>Invasión </schema:name>
+	<schema:category>Ciclovía obstruida</schema:category>
+	<schema:identifier>GruikXBXFBoWXJrfdd7Y</schema:identifier>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP3483764687572702995.jpg?alt=media&amp;token=59911382-c27c-4db1-bf59-cd978833cdbb</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-30 22:31:36.431000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2042294,-3.9902571</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/U3mOfbYIpbYgCDCpIdAJ">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/GruikXBXFBoWXJrfdd7Y">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/U3mOfbYIpbYgCDCpIdAJ"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/K6RDn6oxbKZsX6psk3E7">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>K6RDn6oxbKZsX6psk3E7</schema:identifier>
+	<schema:name>Accidente: 26-11-2022</schema:name>
+	<schema:category>Accidente</schema:category>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP80559662603749970.jpg?alt=media&amp;token=5472050d-85da-4193-9157-6208c6510736</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-26 14:50:48.594000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2037213,-4.0024353</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/m8XvnMG6NmT0TVRUs1kk">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/K6RDn6oxbKZsX6psk3E7">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/m8XvnMG6NmT0TVRUs1kk"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/KTqjhDKQza31r5a7znEF">
+	<schema:identifier>KTqjhDKQza31r5a7znEF</schema:identifier>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<schema:name>Invasión 2</schema:name>
+	<schema:category>Ciclovía obstruida</schema:category>
+	<schema:description>Persona obstruye ciclovia, sector del colegio técnico. </schema:description>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP1622151132228875078.jpg?alt=media&amp;token=a73fd333-21cd-47ee-8952-26fdbda7c44c</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-26 13:08:03.161000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2007157,-3.9876452</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/e5llivtyMROSHwfuppj5">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/KTqjhDKQza31r5a7znEF">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/e5llivtyMROSHwfuppj5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/NMUDJ3s0YeHV9F2Ncj1U">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>NMUDJ3s0YeHV9F2Ncj1U</schema:identifier>
+	<schema:name>Invasión </schema:name>
+	<schema:category>Accidente</schema:category>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP171574719610365738.jpg?alt=media&amp;token=2daddf55-9358-4430-accb-a9a2cade5e82</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-26 16:29:20.511000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2010261,-3.9989232</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/SGuHuTZKA6tVqxbaGhSU">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/NMUDJ3s0YeHV9F2Ncj1U">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/SGuHuTZKA6tVqxbaGhSU"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/PKw4Emm8rsJreF01aD9G">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>PKw4Emm8rsJreF01aD9G</schema:identifier>
+	<schema:name>Invasión </schema:name>
+	<schema:category>Accidente</schema:category>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP171574719610365738.jpg?alt=media&amp;token=413596e9-8437-4fc2-b667-5113a5249ec5</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-26 16:29:23.192000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2010261,-3.9989232</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/SGuHuTZKA6tVqxbaGhSU">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/PKw4Emm8rsJreF01aD9G">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/SGuHuTZKA6tVqxbaGhSU"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/RWDcgEGNLxWI1nyuDiQW">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>RWDcgEGNLxWI1nyuDiQW</schema:identifier>
+	<schema:name>Infraccion</schema:name>
+	<schema:category>Accidente</schema:category>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP3613919327746254139.jpg?alt=media&amp;token=a7f43e1e-7cae-494a-91f7-3b4f27f18c7a</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-01 21:11:07.127000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.200853,-4.0049957</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/AAREuNQKZ4QHctIQWlsa">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/RWDcgEGNLxWI1nyuDiQW">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/AAREuNQKZ4QHctIQWlsa"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/SCq28VHafFH3CE9kw5ky">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>SCq28VHafFH3CE9kw5ky</schema:identifier>
+	<schema:name>Moto estacionada </schema:name>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP3046488059745425582.jpg?alt=media&amp;token=62dfbcd3-c2f3-42da-818c-b59dd632dd75</schema:image>
+	<schema:category>Accidente</schema:category>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-01 23:28:00.655000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.1984766,-4.0022615</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/st0bKofr7VxejKb0ytEn">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/SCq28VHafFH3CE9kw5ky">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/st0bKofr7VxejKb0ytEn"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/WXJEtSGqRZsMkK8R9Krm">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<schema:identifier>WXJEtSGqRZsMkK8R9Krm</schema:identifier>
+	<schema:name>Accidente: 03-12-2022</schema:name>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:category>Accidente</schema:category>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-03 21:59:46.207000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2010817,-3.9990923</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/wgJ6itTlMTjjcuGPXw30">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/WXJEtSGqRZsMkK8R9Krm">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/wgJ6itTlMTjjcuGPXw30"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/XVBdMtCQnOkoPOCCV8IA">
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<schema:identifier>XVBdMtCQnOkoPOCCV8IA</schema:identifier>
+	<schema:name>Invasión 3</schema:name>
+	<schema:category>Ciclovía obstruida</schema:category>
+	<schema:description>Vehículo parqueado sobre la ciclovia. </schema:description>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP4812145433805213843.jpg?alt=media&amp;token=4ad16e33-d931-4c00-b583-35ff45f4f856</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-26 13:14:04.445000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.1985408,-3.9942864</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/e5llivtyMROSHwfuppj5">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/XVBdMtCQnOkoPOCCV8IA">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/e5llivtyMROSHwfuppj5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Y2S5yH66CeluTEBDLl7v">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>Y2S5yH66CeluTEBDLl7v</schema:identifier>
+	<schema:name>Invasión </schema:name>
+	<schema:category>Ciclovía obstruida</schema:category>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP4372864650807789376.jpg?alt=media&amp;token=45b73255-d950-4ee7-a247-d7f36fe9c2af</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-30 22:36:41.707000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2039619,-3.9980759</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/U3mOfbYIpbYgCDCpIdAJ">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/Y2S5yH66CeluTEBDLl7v">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/U3mOfbYIpbYgCDCpIdAJ"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/cKg1zB19lftPb8nhHzzo">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>cKg1zB19lftPb8nhHzzo</schema:identifier>
+	<schema:name>Invasión de ciclovía </schema:name>
+	<schema:category>Accidente</schema:category>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP7108783606517996516.jpg?alt=media&amp;token=f576aa12-37c9-492d-a52f-d1a67f9614ed</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-26 16:14:16.837000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.1987374,-3.993768</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/dzT3MWw9RIVa9KLUJo42">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/cKg1zB19lftPb8nhHzzo">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/dzT3MWw9RIVa9KLUJo42"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/chfGcxzGim3BKndH8uaP">
+	<schema:identifier>chfGcxzGim3BKndH8uaP</schema:identifier>
+	<schema:name>Invasión 3</schema:name>
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:category>Ciclovía obstruida</schema:category>
+	<schema:description>Vehículo parqueado sobre la ciclovia. </schema:description>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP4812145433805213843.jpg?alt=media&amp;token=7d1ab039-2a34-4a09-939b-bf131b662e98</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-26 13:14:02.327000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.1985408,-3.9942864</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/e5llivtyMROSHwfuppj5">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/chfGcxzGim3BKndH8uaP">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/e5llivtyMROSHwfuppj5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/dNYeQpbOuBynISuhioqJ">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<schema:name>Invasion</schema:name>
+	<schema:category>Ciclovía obstruida</schema:category>
+	<schema:identifier>dNYeQpbOuBynISuhioqJ</schema:identifier>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:description>Carro de comida en ciclovía </schema:description>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP3860186757819999960.jpg?alt=media&amp;token=b1cd8bde-98c7-4ed1-a250-4d8d7be54dc6</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-30 20:18:09.971000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.204224,-3.9944235</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/xnFzRTIJWOI4ya7b5mQj">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/dNYeQpbOuBynISuhioqJ">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/xnFzRTIJWOI4ya7b5mQj"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/dp075Od5aOG1TUYNx2Gw">
+	<schema:identifier>dp075Od5aOG1TUYNx2Gw</schema:identifier>
+	<schema:name>Accidente: 24-11-2022</schema:name>
+	<schema:category>Accidente</schema:category>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP3853264249923722885.jpg?alt=media&amp;token=0c98ecbd-dbdd-4c64-8fd1-8edee7302714</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-24 08:29:19.226000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2101895,-3.979023</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/kkXsPpgcdcSiyBMAcH5Q">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/dp075Od5aOG1TUYNx2Gw">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/kkXsPpgcdcSiyBMAcH5Q"/>
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/eC4judanuFXIjiCKVVo5">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>eC4judanuFXIjiCKVVo5</schema:identifier>
+	<schema:name>Invasión #3</schema:name>
+	<schema:category>Ciclovía obstruida</schema:category>
+	<schema:description>Carrito comercial, circula por la ciclovía, sector técnico.</schema:description>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP7083605888367862359.jpg?alt=media&amp;token=cd966640-b160-403b-a139-0dbbe7dfd838</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-26 13:07:38.067000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2005364,-3.9877099</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/HcXyIfSD563SoGzot4Rr">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/eC4judanuFXIjiCKVVo5">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/HcXyIfSD563SoGzot4Rr"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/i5ab7t9DxKLt59FuDh3T">
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-26 12:38:09.726000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.201345,-4.0065133</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/HcXyIfSD563SoGzot4Rr">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/i5ab7t9DxKLt59FuDh3T">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/HcXyIfSD563SoGzot4Rr"/>
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>i5ab7t9DxKLt59FuDh3T</schema:identifier>
+	<schema:name>Invasión #1</schema:name>
+	<schema:category>Ciclovía obstruida</schema:category>
+	<schema:description>Carrito recolector de basura invade la ciclovía </schema:description>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP1170489141780254834.jpg?alt=media&amp;token=c33641b9-45d5-41b5-8bfd-881da913b2b9</schema:image>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/jD6FjUow5eK3bWTMCNWS">
+	<schema:category>Ciclovía obstruida</schema:category>
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>jD6FjUow5eK3bWTMCNWS</schema:identifier>
+	<schema:name>Invasión #1</schema:name>
+	<schema:description>Carrito recolector de basura invade la ciclovía </schema:description>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP1170489141780254834.jpg?alt=media&amp;token=1efbab11-df36-48ce-a658-e836159e0f64</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-26 12:38:08.658000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.201345,-4.0065133</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/HcXyIfSD563SoGzot4Rr">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/jD6FjUow5eK3bWTMCNWS">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/HcXyIfSD563SoGzot4Rr"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/lL8y0iZeP3V0wW0gBHkl">
+	<schema:name>Invasión #1</schema:name>
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:category>Ciclovía obstruida</schema:category>
+	<schema:description>Carrito recolector de basura invade la ciclovía </schema:description>
+	<schema:identifier>lL8y0iZeP3V0wW0gBHkl</schema:identifier>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP1170489141780254834.jpg?alt=media&amp;token=c33641b9-45d5-41b5-8bfd-881da913b2b9</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-26 12:38:10.040000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.201345,-4.0065133</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/HcXyIfSD563SoGzot4Rr">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/lL8y0iZeP3V0wW0gBHkl">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/HcXyIfSD563SoGzot4Rr"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/loYaEuzLmZZMGAGqG1Zn">
+	<schema:identifier>loYaEuzLmZZMGAGqG1Zn</schema:identifier>
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:name>Invasión </schema:name>
+	<schema:category>Ciclovía obstruida</schema:category>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP1343137256316311200.jpg?alt=media&amp;token=8672840b-87a0-49f0-84c5-e5dff319fedd</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-30 22:41:02.339000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2035606,-4.0029576</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/hrGn0UXym8Y4822qAzlW">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/loYaEuzLmZZMGAGqG1Zn">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/hrGn0UXym8Y4822qAzlW"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/mheVwQJjIPVUyMNcknBo">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>mheVwQJjIPVUyMNcknBo</schema:identifier>
+	<schema:name>Invasión #2</schema:name>
+	<schema:category>Ciclovía obstruida</schema:category>
+	<schema:description>Automóvil particular se eefaciona en la ciclovía </schema:description>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP168976622300661520.jpg?alt=media&amp;token=fecb5dd3-d857-4335-bb6b-3dee0237861c</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-26 13:05:12.658000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2011608,-3.9861911</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/HcXyIfSD563SoGzot4Rr">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/mheVwQJjIPVUyMNcknBo">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/HcXyIfSD563SoGzot4Rr"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/nTOag4Mx2xgkbjT8PqIh">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>nTOag4Mx2xgkbjT8PqIh</schema:identifier>
+	<schema:name>Accidente: 26-11-2022</schema:name>
+	<schema:category>Accidente</schema:category>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP80559662603749970.jpg?alt=media&amp;token=3e83d5d8-806a-4bcb-8a28-860ca2eb4b33</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-26 14:50:51.048000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2037213,-4.0024353</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/m8XvnMG6NmT0TVRUs1kk">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/nTOag4Mx2xgkbjT8PqIh">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/m8XvnMG6NmT0TVRUs1kk"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/qInH0ZcqxgaK36sjUIw0">
+	<schema:identifier>qInH0ZcqxgaK36sjUIw0</schema:identifier>
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<schema:name>Invasión 4</schema:name>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:category>Ciclovía obstruida</schema:category>
+	<schema:description>Motocicleta invadiendo ciclovia. </schema:description>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP6860625265941920646.jpg?alt=media&amp;token=e84baf83-08a5-472b-9798-0d4e6718605f</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-26 13:19:49.073000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2013669,-3.9961203</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/e5llivtyMROSHwfuppj5">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/qInH0ZcqxgaK36sjUIw0">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/e5llivtyMROSHwfuppj5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/qoHkOst6BZ2MXJg8P2Qg">
+	<schema:identifier>qoHkOst6BZ2MXJg8P2Qg</schema:identifier>
+	<schema:name>Accidente: 03-12-2022</schema:name>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<schema:category>Accidente</schema:category>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-03 22:17:39.247000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.1982145,-3.9967591</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/wCLkcSNJbRHI8MkbyJ3V">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/qoHkOst6BZ2MXJg8P2Qg">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/wCLkcSNJbRHI8MkbyJ3V"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/suwkNztLGw30OXOlQHQk">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>suwkNztLGw30OXOlQHQk</schema:identifier>
+	<schema:name>Obstáculo </schema:name>
+	<schema:category>Accidente</schema:category>
+	<schema:description>Rama en ciclovía </schema:description>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-03 21:52:55.876000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2012187,-4.0098018</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/DfBWV67ZyYCmUe1tTgZV">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/suwkNztLGw30OXOlQHQk">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/DfBWV67ZyYCmUe1tTgZV"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/t4Ya3EjsO7vUEX7mO7HY">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>t4Ya3EjsO7vUEX7mO7HY</schema:identifier>
+	<schema:name>Invasión #1</schema:name>
+	<schema:category>Ciclovía obstruida</schema:category>
+	<schema:description>Carro recolector de basura , invade la ciclovía </schema:description>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP423646700273008951.jpg?alt=media&amp;token=cfd0b8cb-f340-4050-bfd0-fca6c2bd7f5d</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-26 12:37:30.294000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2012098,-4.0066474</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/HcXyIfSD563SoGzot4Rr">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/t4Ya3EjsO7vUEX7mO7HY">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/HcXyIfSD563SoGzot4Rr"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/tTUrvUxdIImfEwwBCEhm">
+	<schema:name>Invasión #4</schema:name>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<schema:identifier>tTUrvUxdIImfEwwBCEhm</schema:identifier>
+	<schema:category>Ciclovía obstruida</schema:category>
+	<schema:description>Carro de carga pesada , invade la ciclovía para descargar mercadería, sector la pileta</schema:description>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP4692160853088775621.jpg?alt=media&amp;token=47d2c486-cdcf-42a8-92c3-63a4f2f84df3</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-26 13:13:49.563000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.20064,-3.9877165</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/HcXyIfSD563SoGzot4Rr">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/tTUrvUxdIImfEwwBCEhm">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/HcXyIfSD563SoGzot4Rr"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/u903M3I96EIc2Itzzx7B">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<schema:name>Invasión </schema:name>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:identifier>u903M3I96EIc2Itzzx7B</schema:identifier>
+	<schema:category>Accidente</schema:category>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP171574719610365738.jpg?alt=media&amp;token=413596e9-8437-4fc2-b667-5113a5249ec5</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-26 16:29:23.370000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2010261,-3.9989232</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/SGuHuTZKA6tVqxbaGhSU">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/u903M3I96EIc2Itzzx7B">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/SGuHuTZKA6tVqxbaGhSU"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/uVzrNps37hOiK646Gam1">
+	<schema:identifier>uVzrNps37hOiK646Gam1</schema:identifier>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<schema:name>A</schema:name>
+	<schema:category>Accidente</schema:category>
+	<schema:description>B</schema:description>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP7995707834465735983.jpg?alt=media&amp;token=809f1383-e86c-4fd2-a307-d43298b46f39</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-24 16:14:09.145000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.195299,-3.990168</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/VfoDyg6iOUyjxZZGdp2U">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/uVzrNps37hOiK646Gam1">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/VfoDyg6iOUyjxZZGdp2U"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/uoQQ2gpXVRAytpGhT8f7">
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP991604098190308194.jpg?alt=media&amp;token=03270df8-97dc-4e94-a7c8-bde4ca7f6390</schema:image>
+	<schema:name>Invasión </schema:name>
+	<schema:identifier>uoQQ2gpXVRAytpGhT8f7</schema:identifier>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<schema:description>Vehículo estacionado sobre la ciclovia, sector el técnico. </schema:description>
+	<schema:category>Accidente</schema:category>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-26 13:05:05.376000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.201185,-3.9861658</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/e5llivtyMROSHwfuppj5">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/uoQQ2gpXVRAytpGhT8f7">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/e5llivtyMROSHwfuppj5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/w1rRSogFBku6Fjly0hCj">
+	<schema:identifier>w1rRSogFBku6Fjly0hCj</schema:identifier>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<schema:name>Invasión #1</schema:name>
+	<schema:category>Ciclovía obstruida</schema:category>
+	<schema:description>Carro recolector de basura , invade la ciclovía </schema:description>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP423646700273008951.jpg?alt=media&amp;token=be517113-d22b-4561-a367-f2dabae816a6</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-26 12:37:32.352000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2012098,-4.0066474</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/HcXyIfSD563SoGzot4Rr">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/w1rRSogFBku6Fjly0hCj">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/HcXyIfSD563SoGzot4Rr"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/xR1b4FNEG2EqiHRxGuys">
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<schema:name>Invasión </schema:name>
+	<schema:category>Accidente</schema:category>
+	<schema:identifier>xR1b4FNEG2EqiHRxGuys</schema:identifier>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP672894164710908415.jpg?alt=media&amp;token=4777d2af-bbdc-4327-acb4-da5638b2d9f4</schema:image>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-28 11:50:59.916000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2025423,-3.9807856</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/0undJ78yDgaMJWMiteVI">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/xR1b4FNEG2EqiHRxGuys">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/0undJ78yDgaMJWMiteVI"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/ySr4tueqmbLC5L3C3bcT">
+	<schema:image>https://firebasestorage.googleapis.com/v0/b/freemove-aa0c5.appspot.com/o/incidentPhotos%2FCAP6330694468033105378.jpg?alt=media&amp;token=2f7ab5c1-e2bc-41d4-84cc-a00fe30598a6</schema:image>
+	<schema:name>Invasion</schema:name>
+	<rdf:type rdf:resource="http://schema.org/PublicationEvent"/>
+	<schema:identifier>ySr4tueqmbLC5L3C3bcT</schema:identifier>
+	<rdf:type rdf:resource="https://bikeways.org/Publication"/>
+	<schema:category>Ciclovía obstruida</schema:category>
+	<schema:description>Parqueado carro</schema:description>
+	<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-30 20:41:42.150000+00:00</schema:startDate>
+	<schema:eventStatus>Activo</schema:eventStatus>
+	<schema:location>-79.2008168,-4.0033427</schema:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/HUaHVeFiRIsn0ayIUkIn">
+	<rdf:type rdf:resource="https://bikeways.org/Route"/>
+	<rdf:type rdf:resource="http://schema.org/Event"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://bikeways.org/ySr4tueqmbLC5L3C3bcT">
+	<bikeways:isRegisteredIn rdf:resource="https://bikeways.org/HUaHVeFiRIsn0ayIUkIn"/>
+</rdf:Description>
+
+</rdf:RDF>
